@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Welcome to AWS";
+echo "Welcome to AWS & Santhu";
 ?>
 
 </body>
