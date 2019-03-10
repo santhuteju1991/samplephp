@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Hi hello welcome to the code , php code bag";
+echo "Welcome to AWS";
 ?>
 
 </body>
